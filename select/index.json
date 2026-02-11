@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "スクールゾーン",
+  "base_artist": "文藝天国",
+  "createdAt": "2026-02-11T07:36:49.443039Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "スクールゾーン",
+      "artist": "cali≠gari",
+      "has_synced": true,
+      "path": "select/01_スクールゾーン_cali≠gari.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スクールゾーン",
+      "artist": "文藝天国",
+      "has_synced": false,
+      "path": "select/pl_01_スクールゾーン_文藝天国.txt"
+    }
+  ]
+}
